@@ -1,0 +1,15 @@
+{
+    "description": "Hyper",
+    "manipulators": [
+        {
+            "from": { "key_code": "right_option" },
+            "to": [
+                {
+                    "key_code": "right_option",
+                    "modifiers": ["right_control", "right_command", "right_shift"]
+                }
+            ],
+            "type": "basic"
+        }
+    ]
+}
