@@ -1,0 +1,28 @@
+# This is the configuration file for Ghostty.
+#
+# This template file has been automatically created at the following
+# path since Ghostty couldn't find any existing config files on your system:
+#
+#   /Users/creimer/Library/Application Support/com.mitchellh.ghostty/config
+#
+# The template does not set any default options, since Ghostty ships
+# with sensible defaults for all options. Users should only need to set
+# options that they want to change from the default.
+#
+# Run `ghostty +show-config --default --docs` to view a list of
+# all available config options and their default values.
+#
+# Additionally, each config option is also explained in detail
+# on Ghostty's website, at https://ghostty.org/docs/config.
+
+theme = catppuccin-mocha
+font-family = JetBrains Mono
+font-size = 16
+cursor-style = block
+cursor-style-blink = true
+cursor-invert-fg-bg = true
+shell-integration-features = no-cursor
+window-padding-x = 5
+split-divider-color = #f38ba8
+unfocused-split-fill = #0C0C13
+unfocused-split-opacity = 0.8
